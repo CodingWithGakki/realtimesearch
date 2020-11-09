@@ -20,3 +20,5 @@ internet.txt文件记录了用户网吧登记信息，字段如下：姓名，�
 姓名：name，身份证号：uid，年龄：age，性别：gender。
 其他信息字段对应如下：
 地址：address，事件：event，发生日期：happenedDate，结束日期：endDate，同行人：acquaintancer，持续时长：duration，通关类型：tripType
+#使用
+运行ApplicationBootController类，然后在浏览器访问http://localhost:8084/hw_bigdata/search_target
